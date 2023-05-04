@@ -1,0 +1,11 @@
+ENTRY
+
+MOV R1, #0x14;
+
+MOV R2, #0x15;
+
+ADD R1,R2;
+
+B HERE
+
+END
